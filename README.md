@@ -1,4 +1,8 @@
 group_sandbox
 =============
 
-repo for the group to muck around in
+Repo for the group to muck around in
+
+Current members:
+* Callum
+* Scott
