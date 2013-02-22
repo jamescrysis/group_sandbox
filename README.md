@@ -23,3 +23,5 @@ Going to look at adding different backgrounds.
 Feel free to change, delete or add to any of this.
 
 Callum if you would like me to post commit logs in a different way please say!!!!!!!
+
+*Ignore the "Didn't fully commit my changes as I fixed this
